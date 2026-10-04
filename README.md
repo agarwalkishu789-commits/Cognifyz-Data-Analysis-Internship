@@ -6,7 +6,7 @@ The project focuses on exploratory data analysis, data cleaning, statistical ana
 
 ---
 
-## 📌 About the Internship
+## About the Internship
 
 During this internship, I worked on a structured set of data analysis tasks using a restaurant dataset.
 
@@ -21,7 +21,7 @@ The work was developed and documented using Python and Google Colab.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 The main objective of this project was to explore restaurant-related data and derive meaningful insights from different aspects of the dataset, including:
 
@@ -145,7 +145,7 @@ Determine the availability of online delivery and compare restaurant ratings bas
 
 ---
 
-# 📈 Level 2 – Advanced Restaurant Analysis
+# Level 2 – Advanced Restaurant Analysis
 
 Level 2 extends the analysis into restaurant ratings, cuisine combinations, geographical patterns, and restaurant chains.
 
@@ -275,7 +275,7 @@ This helped distinguish between restaurant chains with a wider presence and thos
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 ### Programming & Analysis
 - Python
@@ -306,7 +306,7 @@ This helped distinguish between restaurant chains with a wider presence and thos
 
 ---
 
-# 🧠 Skills Developed
+# Skills Developed
 
 Through these projects, I gained practical experience in:
 
@@ -350,7 +350,7 @@ Through these projects, I gained practical experience in:
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```text
 Cognifyz-Data-Analysis-Internship/
